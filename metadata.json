@@ -1,0 +1,5 @@
+{
+  "name": "B-Roll Director AI",
+  "description": "Transform video scripts into stunning B-roll image assets using Gemini Flash for analysis and Imagen 4 for generation.",
+  "requestFramePermissions": []
+}
